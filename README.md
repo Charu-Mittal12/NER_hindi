@@ -174,6 +174,9 @@ Evaluation uses entity-level micro F1 through `seqeval`. Results are reported se
 
 ## Reference
 
+> **Dataset source:** The CoNLL-format dataset is available from the authors’ official repository: [LTRC IL-NER GitHub Repository](https://github.com/ltrc/IL-NER/tree/main).
+
+
 ```bibtex
 @article{bahad2024multilingual,
   title={Multilingual Named Entity Recognition for Indian Languages},
